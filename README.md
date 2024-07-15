@@ -3,6 +3,8 @@ I have over 2.9 years of expertise with Power BI, SQL, and data analysis.
 A track record of excellence in process optimization, precise report creation, and data quality maintenance.
 Adept at using data to influence business decisions and dedicated to lifelong learning.
 
+These are the steps of Data Analysis:
+
 Data Collection:
 Informed Decision-Making: Ensures accurate, relevant information.
 Customer Insights: Helps understand customer preferences and behaviors.
